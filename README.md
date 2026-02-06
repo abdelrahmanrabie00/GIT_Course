@@ -2,4 +2,4 @@
 git course
 
 
-## Project nots
+## Project notes

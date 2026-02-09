@@ -1,0 +1,1 @@
+#define print printf("Hello world")
